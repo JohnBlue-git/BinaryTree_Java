@@ -1,2 +1,2 @@
-# QuarterTree_Java
+# BinaryTree_Java
 Binary Trees have been constructed in Java
